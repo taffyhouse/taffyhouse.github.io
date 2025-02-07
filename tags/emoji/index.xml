@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emoji on taffy house 塔菲之家</title>
+    <link>http://taffyhouse.github.io/tags/emoji/</link>
+    <description>Recent content in Emoji on taffy house 塔菲之家</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://taffyhouse.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>顏文字支援</title>
+      <link>http://taffyhouse.github.io/posts/emoji-support/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://taffyhouse.github.io/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
